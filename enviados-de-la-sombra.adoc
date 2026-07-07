@@ -297,6 +297,10 @@ Y el grupo formado por los cuatro numenoreanos, el guía orxo y los dos explorad
 
 === Notas sobre la partida
 
+image:./images/ithilien.jpg[]
+
+image:./images/viaje-shaktur.jpg[]
+
 - Durante la misión yo controlaré las acciones de Agannâlu y sus dos compinches. Los tres orcos (el gúia Uruk y los dos exploradores snaga los controlará Carlos).
 
 - Antes del ataque, cuando estén reunidos podrá ser conveniente alguna tirada de estrategia/social para gestionar el ataque y ganarte la confianza de los orcos.
