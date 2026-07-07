@@ -79,11 +79,11 @@ Escondido entre unas rocas mientras trata de parar la hemorragia de su brazo per
 
 Armado sólamente con un cuchillo y temblando de frío se mueve cautelosamente para buscar un lugar seguro donde terminar la noche y descansar mientras el frío Sol de invierno aún es capaz de afectar a sus sentidos.
 
-[Tirada de supervivencia-modor: 29 + 2 (env skill): fallo gordo]:
+NOTE: _Tirada de supervivencia-mordor: 29 + 55 (env skill): fallo._
 
 No logra ningún lugar adecuado para el descanso y se queda escondido entre unas rocas.
 
-[Primera activación de tabla de encuentros: 44: Mamiferos: jabalies/osos/alces, tirada de tipo: 9: alces. Arquetipo defensivo. Tirada de interacción 41, nada relevante]
+NOTE: _Primera activación de tabla de encuentros: 44: Mamiferos: jabalies/osos/alces, tirada de tipo: 9: alces. Arquetipo defensivo. Tirada de interacción 41, nada relevante._
 
 El pobre orco sin dormir se debatirá sobre el sinsentido de la vida y aunque su reacción sería la de regresar sabe que si en algún momento es "mi palabra contra la suya" no hay organismos de jurisprudencia que le garanticen que la versión de un Numemoraneo de la confianza del regimen valga mucho mas que la suya
 
