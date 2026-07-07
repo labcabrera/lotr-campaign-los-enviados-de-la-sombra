@@ -3,9 +3,9 @@
 :toclevels: 3
 :toc-title: Contenido
 
-Campaña narrativa de Rolemaster ambientada en la Tierra Media.
+Campaña narrativa de Rolemaster ambientada en la Tierra Media entre el viaje de Bilbo y la Comunidad del Anillo.
 
-El protagonista es Shaktur, un numenoréano negro de las tierras al sur de Umbar al que le es encomendada una misión en Minas Morgul.
+El protagonista es Shaktur, un numenoréano negro de las tierras al sur de Umbar al que le es encomendada una misión en Minas Morgul. Shaktur proviene de la baja nobleza de las tierras al Sur de Umbar donde aún hay pequeños grupos cerrados que mantienen gran parte de la sangre de Númenor. Tras morir su padre y sin ningún proposito vital claro recibe una carta de Azgar, un influyente cortesano de Mordor donde le invita a participar en una misión donde podrá sacar un buen beneficio y posicionarse adecuadamente en las Tierras Negras, especialmente durante el tiempo de la reconstrucción del reinado de Saurón donde Mordor es un amalgaba de gente de todos los rincones del sur y el este de la Tierra Media y los nuevos ejércitos necesitan de buenos oficiales.
 
 ## Actores
 
