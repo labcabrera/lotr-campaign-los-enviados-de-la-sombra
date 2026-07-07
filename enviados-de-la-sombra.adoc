@@ -183,7 +183,7 @@ Shaktur apartó la manta con lentitud. El dolor le subió desde las costillas ha
 
 Azgar volvió a beber.
 
--Saldréis esta tarde desde las caballerizas de Morgul, eso si es que puedes mantenerte sobre un caballo- dijo mirando el aspecto que tenía Shaktur recostado sobre la cama.
+-Saldréis esta tarde desde las caballerizas de Morgul, eso si es que puedes mantener tu culo sobre un caballo- dijo mirando el aspecto que tenía Shaktur recostado sobre la cama.
 - Os uniréis a una partida de caza que ha avanzado desde el sur durante la noche. Hay varias leguas hasta el puesto de los exploradores. Una vez reunidos atacareis al caer la noche.
 
 Shaktur cerró los ojos un instante. Necesitaba descanso, apenas había dormido unas pocas horas por el dolor.
@@ -279,6 +279,21 @@ Mientras se preparaban para la batalla Shaktur estuvo inspeccionando con la yema
 Y el grupo formado por los cuatro numenoreanos, el guía orxo y los dos exploradores comenzaron su caminata sigilosa hacia el cuartel.
 
 -Shaktur, tu te acercarás para acabar con los guardias. Nosotros cubriremos los flancos. Atrancaremos la puerta desde fuera y prenderemos fuego, así conocerás como grita un gondoriano a la parrilla.
+
+[NOTE]
+====
+
+- No parece que Agannâlu sea un buen tipo del que te puedes fiar. Más parece que tiene ganas de que Shaktur muera durante la misión y quitarse un competidor más, al fin y al cabo hay una guerra abierta de intereses e influencias.
+
+- ¿Qué ha sucedido con la partida de caza de los orcos que deberían haber llegado? ¿Han tenido algún contratiempo con algún grupo de exploradores?
+
+- ¿No sería más sensato esperar? No hay información clara sobre el número de gente que hay en el puesto de guardia. Además, la información es de un traidor que puede estar preparando una trampa.
+
+- Las posibilidades de sobrevivir haciendo un ataque suicida prácticamente en solitario son bajas. ¿Acudirán en su ayuda los numenoráneos o si las cosas van mal huirán?
+
+- Antes de localizar el puesto de guardia deberían establecer un plan cuando vean como es la posición defensiva.
+
+====
 
 == Apéndices y notas
 
