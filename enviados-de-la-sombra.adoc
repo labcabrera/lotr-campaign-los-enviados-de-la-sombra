@@ -297,9 +297,6 @@ Y el grupo formado por los cuatro numenoreanos, el guía orxo y los dos explorad
 
 === Notas sobre la partida
 
-image:./images/ithilien.jpg[]
-
-image:./images/viaje-shaktur.jpg[]
 
 - Durante la misión yo controlaré las acciones de Agannâlu y sus dos compinches. Los tres orcos (el gúia Uruk y los dos exploradores snaga los controlará Carlos).
 
@@ -310,6 +307,14 @@ image:./images/viaje-shaktur.jpg[]
 - Shaktur comenzará la partida con una penalización de -5 por las contusiones y la falta de descanso. Adicionalmente comenzará la partida con 20 puntos de fatiga.
 
 == Apéndices y notas sobre la campaña
+
+=== Mapas
+
+.Ithilien
+image:./images/ithilien.jpg[]
+
+.Viaje de Shaktur
+image:./images/viaje-shaktur.jpg[]
 
 Alrededor del año 2950 de la Tercera Edad Sauron regresa a Mordor después de ser expulsado de Dol Guldur y vuelve a manifestarse como el Señor Oscuro ante los ojos de la Tierra Media.
 
