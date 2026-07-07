@@ -1,4 +1,4 @@
-# Enviados de la Sombra
+# Los Enviados de la Sombra
 :toc:
 :toclevels: 3
 :toc-title: Contenido
@@ -273,4 +273,167 @@ Y el grupo formado por los cuatro numenoreanos, el guía orxo y los dos explorad
 
 -Shaktur, tu te acercarás para acabar con los guardias. Nosotros cubriremos los flancos. Atrancaremos la puerta desde fuera y prenderemos fuego, así conocerás como grita un gondoriano a la parrilla.
 
+== Apéndices y notas
 
+Alrededor del año 2950 de la Tercera Edad Sauron regresa a Mordor después de ser expulsado de Dol Guldur y vuelve a manifestarse como el Señor Oscuro ante los ojos de la Tierra Media.
+
+Inicia la reconstrucción de Barak Dur y la organización del ejército de Mordor. Durante esta época Sauron necesita contactar con las comunidades de orcos del noroeste, la Ciudad de los Trasgos, Moria y las comunidades aisladas que viven alrededor del Bosque Negro y las Montañas Nubladas.
+
+La campaña tendrá como eje narrativo una de esas compañías.
+
+Esta compañía no debería ser muy grande para no acaparar la atención de las patrullas de vigilancia de Lorien, Gondor y Rohan. Deberá llevar los suministros necesarios para avanzar por esas zonas rechazando las patrullas en caso de confrontación. Podría contar con un numemoráneo negro como emisario de Mordor portando las instrucciones de Sauron para comenzar los preparativos de una campaña que tenga como objetivo asegurar el margen este del rio Anorien hasta el bosque de Fargorn.
+
+En esa zona debería contar con apoyo de los easterling por el este aunque con escasa presencia ya que esa zona debería ser lugar de escaramuzas con las partidas de Rohan.
+
+=== Inicio de la historia
+
+El grupo comenzará el viaje por el norte de Ithilien, lugar donde los exploradores de Gondor mantienen campamentos y patrullas de vigilancia. Aunque en un primer lugar la compañía debería pasar desapercibida, podría atacar a pequeñas guarniciones aisladas de hombres y aprovechar la noche para realizar alguna emboscada para neutralizar a los exploradores.
+
+Pasado Ithilien se encuentra la zona pantanosa de Nindalf llegando hasta el delta del Anduin. Dependiendo del resultado de la etapa por Ithilien deberían haber despertado el interés de algún grupo de rangers que irán en su captura. Al mando debería estar algún capitán u oficial de baja graduación al mando de un grupo pequeño. No deberían contar con mucho apoyo de Gondor que tiene otros problemas más acuciantes entre las tensiones internas y los problemas fronterizos con Mordor una vez Sauron ha comenzado a reorganizarse. Al fin y al cabo, no deja de ser otra partida de orcos de las muchas que empiezan a operar por la zona.
+
+
+La banda principal debería ser un grupo autónomo con escaso apoyo de Mordor donde los refuerzos serían complicados. Podría recibir refuerzos de:
+Grupos de orcos presentes por la zona
+Easterlings (con cierta resistencia a apoyar la causa)
+Hombres salvajes (sería complicado convencerles pero poderoso caballero es don dinero y tienen bastante odio a Arnor y sus descendientes)
+
+Hay varios caminos posibles, uno sería tomar dirección norte hacia Dol Guldur y flanquear Lorien por el Norte. Otro sería avanzar por el margen este de Rohan hasta llegar a los dominios de Saruman que ya estaría con los preparativos de su ejército.
+
+¿Que peso pueden transportar a nivel de suministros?
+Hacer los cálculos de distancias y tiempos para llegar
+
+
+Durante la salida por Ithilien la comunidad debería de ganarse el odio visceral de algún capitán de exploradores de Gondor, por ejemplo matando a su hijo o alguna excusa típica de Marvel para justificar la ultraviolencia. Este, con unos pocos hombres a su cargo iniciará la persecución de los orcos con la misma obsesión del Capitán Ahab en Moby Dick.
+
+=== Ideas generales del viaje de la comunidad
+
+==== Inicio por Ithilien
+
+*Interacciones y evolución de la trama*
+
+_Orcos de Mordor_
+
+Modo supervivencia-exploracion con tiradas de encuentro
+Escaramuzas con rohirrims, gondorianos y elfos de Lorien
+Organización de la estructura logística con Mordor
+Diplomacia/intimidación con facciones afines a Mordor
+
+_Orcos de Moria_
+
+Luchas internas de poder (orc civil wars)
+Escaramuzas y saqueo en tierras de Rohan y Lorien por el flanco este
+Resistencias iniciales a ser vasallos de Mordor a las primeras de cambio
+
+_Exploradores de Gondor_
+
+Modo persecución-supervivencia para dar caza a la Comunidad
+Persuasión hacia las patrullas de elfos y rohirrim para obtener apoyo
+Combates no abiertos contra las estructuras débilmente organizadas de orcos que empiezan a crear la línea logística Mordor-Moria
+
+_Elfos de Lorien_
+
+No van a inmiscuirse en los asuntos de los hombres de forma sencilla aunque puede prestar apoyo puntual (o algún personaje motu propio apoyar la causa)
+Vigilancia fronteriza
+
+=== Actores
+
+Mordor: Sauron después de manifestarse necesita recomponer el ejército y obtener información sobre el estado de la Tierra Media, medir las fuerzas de los rivales e iniciar los preparativos de la gran guerra.
+
+Moria: lleva alrededor de 1500 años sin un líder después de que el Balrog fuera despertado (1980 TE). Sociedad fragmentada sin líderes claros que vive un poco del pillaje y no está organizada más que en señores feudales con guerras internas.
+
+Gondor: atraviesa una crisis militar y demográfica. Bajo la influencia de Sauron está en guerra contra los orientales además de las guerras contra los ejercitos de Mordor.
+
+Rohan: apenas ha comenzado su reinado desde que al acudir en auxilio de Gondor este le cedió los nuevos territorios.
+
+Moria: lleva casi un milenio en manos de los orcos sin un control directo de Sauron. Están descoordinados, envueltos en tensiones internas y sin un orden cohesionado. Viven del saqueo, con pequeñas guarniciones en situación de guerra de guerrillas con sus vecinos.
+
+Lorien: vive en una autarquía emplazada entre las amenazas de Dol Guldur, Moria y los orcos de las Montañas Nubladas y el Bosque Negro. Mantiene una vigilancia constante dentro de los límites del reinado pero sin aventurarse más allá de los márgenes.
+
+=== Cronología
+
+1000 TA: Regreso de Sauron en secreto a Dol Guldur como el Nigromante
+1000 TA: Llegada de Saruman y Gandalf a la Tierra Media
+
+1300 TA: Reaparecen los Nazgul
+1300 TA: Fundación de Angmar por el Rey Brujo
+
+1980 TA: Despertar del Balrog. Moria es abandonada por los enanos
+1980 TA: El Rey Brujo toma Minas Ithil (Minas Morgul)
+
+2510 TA: Los orientales atacan Gondor
+
+2511 TA: Fundación de Rohan y alianza con Gondor
+
+2759 TA: Saruman de instala en Isengard
+2850 TA: Gandalf confirma la identidad del Nigromante
+
+2941 TA: Sauron abandona Dol Guldur y regresa abiertamente a Mordor
+2941 TA: Los trasgos de las Montañas Nubladas refuerzan su poder
+2941 TA: Bilbo llega a la ciudad de los trasgos (muere el gran trasgo)
+
+*Trama de la historia*
+
+3018 TA: Guerra del Anillo
+3021 TA: Fin de la tercera edad
+
+
+=== Población
+
+*Mordor*
+
+Orcos: 500K (1M)
+Easterligs: 100K
+Humanos (esclavos y tierras del sur): 75K
+
+*Gondor*
+
+2M total
+Minas Tirith y Pelennor: 175K
+Ithilien: 50k
+Anórien, Lebennin, Lossarnach, Belfalas: 1.8M
+
+*Rohan*
+
+300k total
+
+*Lorien*
+
+35K
+
+=== Jugabilidad
+
+*Carlos*
+
+Campaña narrativa con personajes con buen power-level para toma de decisiones
+Evitar grandes confrontaciones que pongan en peligro la misión principal
+
+*Peter*
+
+Orcos contra orcos, orcos contra elfos, orcos contra humanos. Khorne mode enabled
+Acceso a items y recursos poderosos de la edad dorada de los enanos, aunque no todos compatibles morfológicamente con el cuerpo de un orco
+
+*Luis*
+
+Darle consistencia narrativa a la historia, como el pan entre plato y plato adaptando la facción al rol que pida el momento
+
+Idea de tener pequeñas facciones secundarias que van marcando las zonas de influencia sobre cada zona y de este modo que encaje con el nivel de letalidad tipico de rolemaster. Se podrán combinar las zonas de influencia de esas zonas con las bandas principales para que las bajas no hagan polvo a las facciones principales de la trama.
+
+Marcar estas facciones secundarias dentro del mapa para que pueda funcionar como un juego de estrategia
+
+=== Facciones principales
+
+- La Comunidad (Sombría):  grupo inicial con buen power level para que cualquier baja tenga una importancia sustancial en la trama. Como es rolemaster, si que deberán contar con suficiente morralla para soportar las inclemencias de un modelo basado en tiradas D100 abiertas pero que debería estar centrado en proteger a los elementos narrativos de la historia
+- Los exploradores: conjunto de exploradores de Gondor que mendigarán refuerzos a Gondor mientras buscan alianzas con rohirrim y elfos
+- Señor de la guerra de Moria: satrapa típico que contará con carne de cañon para ganarse el favor de Mordor mientras intenta obtener influencia de diferentes motivos (matando orcos, matando humanos y matando elfos basicamente)
+
+
+*Facciones secundarias*
+
+- “Otros” orcos de moria: facción NPC para jugar en modo coliseo romano con Peter
+- Patrulla de Lorien: elfos que en función de las cosas puede hacer que algún personaje simpatice por la causa de los exploradores
+- Orcos de mordor de la reserva: grupos de orcos mas o menos organizados para luchar escaramuzas contra sus vecinos indeseables
+- Patrullas de Rohan: un grupo suelto de gente que va a caballo con el noble proposito de hacer de unidad de control de plagas del margen este del reino
+- Easterlings: similar a Rohan pero por el otro lado. Haters de occidente y con su idiosincrasia afines a cualquiera que quiera joderles. No están sometidos a la voluntad del anillo pero están muy resentidos contra Gondor y ven a Sauron como una deidad de la guerra dentro de su ideario tribal. Actúan generalmente como grupos independientes y poco cohesionados.
+- Orcos de la Ciudad de los Trasgos: facción compleja para ver como va en el late-game la campaña
+- Gondorianos con armadura: NPCs para luchar contra los orcos
+- Hill tribes, hombres de las colinas, bárbaros y hombres anarco-sindicalistas organizados en comunidades autogestionadas: muerte al capital y afines a las influencias de Saruman. Motivados por el odio a Arnor y sus descendientes. Deseos de venganza similares a las del pueblo alemán después del tratado de Versalles después de perder la guerra bajo el mando del Rey Brujo. Bajo la influencia velada de Saruman (podrá depender el devenir de las relaciones con las que haga la comunidad con Isengard si es que se da el caso).
