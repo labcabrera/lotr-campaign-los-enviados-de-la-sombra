@@ -1,0 +1,183 @@
+# Enviados de la Sombra
+
+Campaña narrativa de Rolemaster ambientada en la Tierra Media.
+
+El protagonista es Shaktur, un numenoréano negro de las tierras al sur de Umbar al que le es encomendada una misión en Minas Morgul.
+
+## Actores
+
+- Shaktur: numenoréano negro protagonista principal. Tras la muerte de su padre recibe un mensaje de Azgar para viajar hacia Minas Morgul para participar en una misión.
+- Azgar: numenoréano negro noble con conexiones políticas en Mordor. Es el valedor de Shaktur y quién le ha recomendado para la misión aún sin conocerle directamente ya que es el hijo de un amigo suyo.
+- Xught: comisario orco al mando de la expedición inicial.
+- Grukk: explorador orco de Minas Morgul conocedor de los bosques de Ithilien.
+- Agannâlu: numenoréano negro que lidera la misión de rescate de Grukk.
+- Azak: capitán de Gondor caído durante el ataque de la primera misión.
+
+## Capítulo 1: La Partida
+
+_Yo, Sauron, Señor de Barad-dûr, Hacedor del Anillo y Dueño del Destino de la Tierra Media, hago llegar estas palabras a mi siervo fiel, numenóreano negro, portador de mi voz y ejecutor de mi designio. +
+Escucha sin error, memoriza sin duda, y cumple sin demora. +
+Tu misión es avanzar en secreto hacia el gran río Anduin y asegurar su ladera oriental, desde los pasos septentrionales hasta donde el bosque y la niebla se espesan. +
+Esta franja será la vena por la que fluirá mi influencia cuando llegue la hora abierta de la guerra. +
+No levantarás estandartes.
+No provocarás batallas innecesarias.
+El miedo debe preceder a la vista. +
+Establece posiciones ocultas en colinas, gargantas y pasos elevados.
+Vigila los movimientos de hombres del sur y jinetes errantes, Informa de toda patrulla.
+Usa aliados menores, sombras y rumores para debilitar la voluntad del enemigo antes del choque._
+
+_El Este del Anduin debe parecer tranquilo a medida que nos apoderamos de él.
+Contactarás, en mi nombre, con los dominios de Moria y la Ciudad de los Trasgos y hazles saber que una nueva guerra se cierne en el horizonte. Saruman ha cedido a la voluntad del anillo pero mi influencia aún es débil. Extrae alguna información de sus planes ya que desconfío de sus intenciones.
+Coordina escaramuzas, rutas de paso y refugios. Que se preparen armas, víveres y carne para la guerra venidera.
+Evita atraer la atención de los vigilantes del oeste.
+Los bosques escuchan.
+Los ríos recuerdan.
+Si caes, que sea sin nombre.
+Si triunfas, tu recompensa será vivir bajo mi sombra cuando el mundo sea rehecho.
+Así lo ordeno. Así será. +
+La Sombra se alarga. +
+El Anillo llama. +
+Los caminos conducen a mí._
+
+=== Cuaderno de Viaje de Xught, Comisario de Gotmoth, Lugarteniente de Minas Morgul
+
+_Los siguientes informes son enviados a la ciudadela usando Crebains mensajeros._
+
+*29 de Enero del 2942*
+La expedición parte de Minas Morgul con Shaktur al mando, un numemoráneo negro que ha llegado a la ciudadela hace tres noches. Avanzaremos moviéndonos por la noche escondidos a través de los bosques de Ithilien hacía el delta del Anduin donde contactaremos con un puesto de guardia que ha sido informado de nuestra llegada.
+
+*30 de Enero de 2942*
+Avanzamos 10 millas sin ningún imprevisto. Llevamos provisiones para 10 días. Nuestro explorador ha informado de un grupo de exploradores vigilando una de las rutas. Mañana se evaluará la amenaza para atacarlos mientras duermen o seguiremos avanzando sin ser detectados.
+
+*31 de Enero de 2943*
+Grukk, nuestro explorador ha informado que los exploradores están escondidos en las ruinas de una loma. Se trata de un grupo de seis humanos. Shaktur ha decidido asaltar su campamento mientras hacen guardia de noche y ha partido hace una hora.
+Espero con los orcos de guardia preparando el campamento para pasar el día de mañana ocultos en la espesura del bosque.
+
+...
+
+Shaktur ha regresado sólo informando de que los gondorianos a los que iban a asaltar les han tendido una emboscada sin haber especificado su número de forma precisa. Su vestimenta está desgarrada y ensangrentada. Alguna cosa no cuadra ya que mucha sangre que le cubría no tenía el color carmesí de la sangre humana sino el color pardo espeso de nuestra sangre. Nos esconderemos esta noche y partiremos mañana de regreso a la ciudadela para establecer otra partida de exploración. Desconfío de Shaktur al que solo conozco de hace tres días ya que Grukk siempre ha resultado un buen rastreador durante todos los años que he trabajado con él y conocía este bosque como la palma de su mano.
+
+...
+
+=== Grukk
+
+Grukk es el explorador de la expedición. En el segundo día de la expedición localiza a un pequeño campamento de exploradores y Shaktur decide preparar una emboscada nocturna que debería haber sido una operación sencilla pero por el exceso de confianza de Shaktur que realiza un ataque directo sin ninguna coordinación acaba resultando desastroso.
+
+Después del ataque donde un explorador escapa y el resto de orcos han muerto o están agonizando y moribundos, Shaktur amenaza a Grukk para que no delate la incompetencia de este y al tener una negativa lo ataca y hiere gravemente en el brazo.
+
+Herido gravemente y desarmado Grukk consigue huir aprovechando la oscuridad de la noche mientras Shaktur es incapaz de seguir su rastro.
+
+Escondido entre unas rocas mientras trata de parar la hemorragia de su brazo permanece atento a los sonidos de la noche hasta estar seguro de que Shaktur ha perdido su rastro.
+
+Armado sólamente con un cuchillo y temblando de frío se mueve cautelosamente para buscar un lugar seguro donde terminar la noche y descansar mientras el frío Sol de invierno aún es capaz de afectar a sus sentidos.
+
+[Tirada de supervivencia-modor: 29 + 2 (env skill): fallo gordo]:
+
+No logra ningún lugar adecuado para el descanso y se queda escondido entre unas rocas.
+
+[Primera activación de tabla de encuentros: 44: Mamiferos: jabalies/osos/alces, tirada de tipo: 9: alces. Arquetipo defensivo. Tirada de interacción 41, nada relevante]
+
+El pobre orco sin dormir se debatirá sobre el sinsentido de la vida y aunque su reacción sería la de regresar sabe que si en algún momento es "mi palabra contra la suya" no hay organismos de jurisprudencia que le garanticen que la versión de un Numemoraneo de la confianza del regimen valga mucho mas que la suya
+
+Los pensamientos de Grukk se van diluyendo a lo largo de la noche mientras piensa en todo aquello que ama y recuerda su infancia y adolescencia
+
+Y con esos pensamientos en la cabeza y exausto por las heridas y la inseguridad se queda parcialmente dormido apoyado
+
+A medida que su temperatura corporal baja y aumenta la sed trata de olvidarse de las particularidades de su lamentable situación y tratará de vivir lo que le quede de vida conforme a sus principios mas elementales, aun siendo estos dominados por la volundad del anillo.
+
+== Capítulo 2: El Juicio
+
+Shaktur regresó a Minas Morgul con Xught y dos porteadores orcos.
+
+No entró como vencedor. Entró de noche, cuatro días después de su partida. Con manchas de sangre seca en la ropa, los labios resecos y el aspecto agotado de quien ha recorrido varias millas sin apenas descanso durante los meses frios de Ithilien.
+
+Antes de que se abriese la puerta de servicio de la ciudadela la espera fue tensa. Intercambiaba duras miradas con Xught mientras este la esquivaba. Apenas habían hablado unas pocas frases durante los últimos dos días donde habían estado regresando tras sus pasos sobre la nieve y el barro.
+
+Los informes de Xught habían llegado la noche anterior bajo las alas de los crebain mensajeros. El comisario había escrito poco, pero suficiente. La partida había salido mal. Casi todos los orcos habían muerto o habían desaparecido. La versión de Shaktur olía a miedo y a mentira.
+
+Ni dos noches habían bastado para que todo se pudriera.
+
+Tras entrar en la ciudadela Shaktur fue a visitar las estancias de Azgar, su protector en Minas Morgul. Azgar lo recibió en una estancia baja de la ciudadela tras abrirle la puerta con aspecto escéptico. Era un numenóreano negro que había servicio largo tiempo en Mordor, respetado por sus mandos y con buenas conexiones en el tejido de las tierras oscuras durante una época en la que la reconstrucción de Barad-dûr había convertido la región en un crisol de facciones con intereses encontrados deseosos de ganarse el favor de los capitanes.
+
+Las palabras ya no servían. El asesinato de los orcos con sus manos no constituía ningún problema, pero el desempeño de la misión era sido tan decepcionante que había llegado a demasiados oídos.
+
+En Minas Morgul había leyes y la jurisprudencia la dictaba el acero. Había fallado en la misión pero tenía una salida para limpiar su nombre, un juicio por combate donde la voluntad de Morgoth dictaminaría su capacidad.
+
+Shaktur aceptó. La alternativa era una huida hacia las tierras de Umbar y la deshonra de Azgar quién había sido su valedor y quién le recomendó para la empresa.
+
+Su rival sería Khamzar, un guerrero de Rhûn de mediana edad, fuerte, curtido en numerosas escaramuzas contra gondorianos y rohirim. Mandaba a hombres duros del este, bárbaros acostumbrados al frío, al hambre, las penalidades y la violencia de las tierras al norte de Mordor. Gothmog le tenía aprecio. Eso bastaba para hacerlo peligroso.
+
+El combate se preparó fuera de la ciudadela, en un campamento hundido en barro en los restos de las antiguas edificaciones de los hombres, muchas ahora convertidas en cuadras para huargos y tiendas de campaña alternadas con letrinas, provisiones y los talleres de los artesanos. 
+
+Enfrente del lugar de combate se levantó una tribuna improvisada de madera. Gothmog presidiría en el centro del palco flanqueado por sus principales capitanes.
+
+Allí Shaktur demostraría su valor o sus días terminarían en aquél barro.
+
+Khamzar formó con sus mejores hombres. En el centro estaba él, escoltado por tres guerreros de confianza. A su alrededor, sus orientales esperaban con lanzas, espadas, arcos y escudos desgastados.
+
+Shaktur reunió a las unidades que Azgar se había encargado de buscar. Tres numenoraneos negros junto con puñado de orcos menores. Pocos. Sucios. Nerviosos.
+
+Sonó el cuerno.
+
+Khamzar avanzó despacio, midiendo el terreno mientras esperaba que los arqueros tomaban posiciones sobre las alturas en las ruinas cercanas y se hizo fuerte tras un conjunto de barriles y cajas de provisiones.
+
+Shaktur no esperó. Cargó directo al centro.
+
+Fue una decisión estúpida. También fue valiente. Cruzó el barro con los suyos detrás, sin buscar flancos ni ventaja. Fue contra Khamzar y sus tres mejores guerreros como si la única forma de limpiar su nombre fuera romperse los dientes contra la parte más dura del enemigo.
+
+Llevado por su propia rabia llego hasta los guardaespaldas de Khamzar que se defendían usando picas y escudos de los ataques de Shaktur. Flanqueado por varios orcos se escuchaban los gritos mientras los cuerpos chocaban y caían al barro.
+
+Unos minutos después volvió a sonar un cuerno. Entonces Gothmog alzó la mano y sin parar a decir una sola palabra giró sobre sus pies y desaparecio seguido de su guarda pretoriana.
+
+Shaktur quedó en pie.
+
+Magullado, jadeando, cubierto de sangre y barro. Miró a Khamzar desafiantemente mientras recuperaba la respiración. A su lado varios orcos se desangraban en el barro cerca de otros agonizantes o inconscientes.
+
+Mientras un grupo de orcos corría a auxiliar a los heridos Shaktur busco a Azgar entre las figuras de la tribuna. Al dar con el vio como este sonreía animado y le dedicó un gesto afectado de aprobación.
+
+== Capítulo 3: La Captura de Grukk
+
+RESUMEN:
+
+el dia siguiente del combate, mientras Shaktur se recuperaba de las heridas en la zona noble de las barracas de una torre de la ciudadela recibio la visita de Azgar. Estaba tumbado en la cama con varias vendas.
+
+- No tienes muy buen aspecto, aunque la voluntad parece que quiere que sigas vivo
+
+Shaktur se tocó el mentón moviendo la barbilla, - esta vez no ha sido mi dia
+
+- Tienes más cojones que cabeza, eso sin duda dijo Azgar mientras se acercaba a una botella de licor, quitó el tapón de corcho con sus retorcidos dientes (numenoreano negro) y dio un generoso trago.
+
+- Parece que un grupo de exploradores han encontrado a Grukk. Un confidente dentro de la guardia de Ithilien ha avisado a la ciudadela.
+
+Shaktur se quedó en silencio
+
+- Esta noche llegó el mensaje. Encontrarón al poble diablo al borde de la muerte medio muerto a varios kilómetros y lo han trasladado a un puesto avanzado de la guardia.
+
+Le estarán torturando hasta que diga que el mismo se folló a Lúthien y luego la mató con sus propias manos
+
+Shaktur no pareció entender la referencia y continuó en silencio a esperar qué tenía que ver con el
+
+- El capitán de la misión considera que al estar todo este entuerto provocado por un error tuyo, debes participar en la partida para ir a rescatarlo o a matarlo, lo que sea más conveniente
+
+- Esta vez no estarás al mando, lo hará Agannâlu, un idiota arrogante conocido por sus métodos expeditivos que se tiene a si mismo en demasiada elevada consideración.
+
+Esta tarde, si puedes montar a caballo el grupo saldrá desde Morgul y se juntará con una partida de caza de orcos que durante la noche ha avanzado desde el sur.
+
+No sabemos qué sabe Grukk de los planes de nuestro señor pero aunque sólo les diga que el agua moja, esa información no debe llegar hasta Osgiliath.
+
+- Parece que durante el ataque a los exploradores uno de los que murio era un viejo conocido, el capitán Azak, un viejo querido por la soldadesca gondoriana y eso ha revuelto un poco las aguas.
+
+- Puedes subirte a un caballo y blandir otra vez la espada? Hay varias leguas de camino hasta la guarnición de los exploradores, la urgencia no admite más demora
+
+- Creo que en ese caso necesitaré dormir alguna hora más dijo Shaktur mientras se acomodaba en el camastro
+
+- Avisaré a Agannâlu. Ten tus cosas preparadas, por la tarde deberás reunirte con el el puesto de mando de las caballerizas. Esta vez procura matar mas gondorianos que orcos dijo Azgar mientras tomaba otro trago y tapó la botella de licor. Duerme, diré que te vengan a avisar con tiempo para que te puedas remojar las pelotas y comer algo.
+
+Azgar dejó sobre la mesa un pequeño vial de un liquido oscuro.
+
+- Esta vez si fallas no quiero que regreses a la ciudadela. Era buen amigo de tu padre e intercedí por ti, pero no quiero verme deshorrado más veces.
+
+Si vuelves, te dejaré follarte a alguna de mis chicas dijo sarcasticamente Azak mientras se alejaba andando por los cuarteles y desapareciendo por las escaleras.
+
+Shaktur se incorporó para beber algo de agua mirando el contenido de ese pequeño vial antes de volver a dejarse caer sobre las sábanas roidas que dejaban ver 
+
