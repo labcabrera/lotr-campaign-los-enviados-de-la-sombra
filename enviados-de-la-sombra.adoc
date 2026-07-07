@@ -9,12 +9,12 @@ El protagonista es Shaktur, un numenoréano negro de las tierras al sur de Umbar
 
 ## Actores
 
-- Shaktur: numenoréano negro protagonista principal. Tras la muerte de su padre recibe un mensaje de Azgar para viajar hacia Minas Morgul para participar en una misión.
-- Azgar: numenoréano negro noble con conexiones políticas en Mordor. Es el valedor de Shaktur y quién le ha recomendado para la misión aún sin conocerle directamente ya que es el hijo de un amigo suyo.
-- Xught: comisario orco al mando de la expedición inicial.
-- Grukk: explorador orco de Minas Morgul conocedor de los bosques de Ithilien.
-- Agannâlu: numenoréano negro que lidera la misión de rescate de Grukk.
-- Azak: capitán de Gondor caído durante el ataque de la primera misión.
+- *Shaktur*: numenoréano negro protagonista principal. Tras la muerte de su padre recibe un mensaje de Azgar para viajar hacia Minas Morgul para participar en una misión.
+- *Azgar*: numenoréano negro noble con conexiones políticas en Mordor. Es el valedor de Shaktur y quién le ha recomendado para la misión aún sin conocerle directamente ya que es el hijo de un amigo suyo.
+- *Xught*: comisario orco al mando de la expedición inicial.
+- *Grukk*: explorador orco de Minas Morgul conocedor de los bosques de Ithilien.
+- *Agannâlu*: numenoréano negro que lidera la misión de rescate de Grukk.
+- *Azak*: capitán de Gondor caído durante el ataque de la primera misión.
 
 ## Capítulo 1: La Partida
 
