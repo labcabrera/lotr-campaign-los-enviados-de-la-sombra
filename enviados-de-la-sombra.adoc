@@ -356,31 +356,22 @@ Lorien: vive en una autarquía emplazada entre las amenazas de Dol Guldur, Moria
 
 === Cronología
 
-1000 TA: Regreso de Sauron en secreto a Dol Guldur como el Nigromante
-1000 TA: Llegada de Saruman y Gandalf a la Tierra Media
-
-1300 TA: Reaparecen los Nazgul
-1300 TA: Fundación de Angmar por el Rey Brujo
-
-1980 TA: Despertar del Balrog. Moria es abandonada por los enanos
-1980 TA: El Rey Brujo toma Minas Ithil (Minas Morgul)
-
-2510 TA: Los orientales atacan Gondor
-
-2511 TA: Fundación de Rohan y alianza con Gondor
-
-2759 TA: Saruman de instala en Isengard
-2850 TA: Gandalf confirma la identidad del Nigromante
-
-2941 TA: Sauron abandona Dol Guldur y regresa abiertamente a Mordor
-2941 TA: Los trasgos de las Montañas Nubladas refuerzan su poder
-2941 TA: Bilbo llega a la ciudad de los trasgos (muere el gran trasgo)
-
-*Trama de la historia*
-
-3018 TA: Guerra del Anillo
-3021 TA: Fin de la tercera edad
-
+- *1000 TA*: Regreso de Sauron en secreto a Dol Guldur como el Nigromante
+- *1000 TA*: Llegada de Saruman y Gandalf a la Tierra Media
+- *1300 TA*: Reaparecen los Nazgul
+- *1300 TA*: Fundación de Angmar por el Rey Brujo
+- *1980 TA*: Despertar del Balrog. Moria es abandonada por los enanos
+- *1980 TA*: El Rey Brujo toma Minas Ithil (Minas Morgul)
+- *2510 TA*: Los orientales atacan Gondor
+- *2511 TA*: Fundación de Rohan y alianza con Gondor
+- *2759 TA*: Saruman de instala en Isengard
+- *2850 TA*: Gandalf confirma la identidad del Nigromante
+- *2941 TA*: Sauron abandona Dol Guldur y regresa abiertamente a Mordor
+- *2941 TA*: Los trasgos de las Montañas Nubladas refuerzan su poder
+- *2941 TA*: Bilbo llega a la ciudad de los trasgos (muere el gran trasgo)
+- *TRAMA DE LA HISTORIA*
+- *3018 TA*: Guerra del Anillo
+- *3021 TA*: Fin de la tercera edad
 
 === Población
 
