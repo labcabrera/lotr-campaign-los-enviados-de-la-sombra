@@ -427,7 +427,7 @@ Marcar estas facciones secundarias dentro del mapa para que pueda funcionar como
 - Señor de la guerra de Moria: satrapa típico que contará con carne de cañon para ganarse el favor de Mordor mientras intenta obtener influencia de diferentes motivos (matando orcos, matando humanos y matando elfos basicamente)
 
 
-*Facciones secundarias*
+=== Facciones secundarias
 
 - “Otros” orcos de moria: facción NPC para jugar en modo coliseo romano con Peter
 - Patrulla de Lorien: elfos que en función de las cosas puede hacer que algún personaje simpatice por la causa de los exploradores
